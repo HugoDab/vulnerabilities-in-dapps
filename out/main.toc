@@ -1,0 +1,66 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {I.}Introduction}{6}{section.1}%
+\contentsline {section}{\numberline {II.}Context}{7}{section.2}%
+\contentsline {subsection}{\numberline {A)}Illinois Institute of Technology}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {B)}CS597: Research project}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {C)}Team}{7}{subsection.2.3}%
+\contentsline {section}{\numberline {III.}Motivations}{8}{section.3}%
+\contentsline {section}{\numberline {IV.}Methodology}{9}{section.4}%
+\contentsline {subsection}{\numberline {A)}Main objectives}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {B)}Organization}{9}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {1.}Spring semester}{9}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {2.}Summer semester}{9}{subsubsection.4.2.2}%
+\contentsline {section}{\numberline {V.}Development}{10}{section.5}%
+\contentsline {subsection}{\numberline {A)}Decentralized Applications}{10}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {1.}Top 100 DApps}{10}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {2.}Other DApps}{10}{subsubsection.5.1.2}%
+\contentsline {subsection}{\numberline {B)}Analysis of programming languages used}{11}{subsection.5.2}%
+\contentsline {subsection}{\numberline {C)}Blockchain}{11}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {1.}What is a blockchain?}{11}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {2.}Wallet on a blockchain}{11}{subsubsection.5.3.2}%
+\contentsline {subsection}{\numberline {D)}API used in DApps}{12}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {1.}MetaMask API}{12}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {2.}Ethers.js and Web3.js API}{13}{subsubsection.5.4.2}%
+\contentsline {subsection}{\numberline {E)}EIP}{14}{subsection.5.5}%
+\contentsline {subsubsection}{\numberline {1.}General concept}{14}{subsubsection.5.5.1}%
+\contentsline {subsubsection}{\numberline {2.}EIP721}{15}{subsubsection.5.5.2}%
+\contentsline {subsubsection}{\numberline {3.}EIP712}{15}{subsubsection.5.5.3}%
+\contentsline {subsection}{\numberline {F)}Signing methods in MetaMask}{17}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {1.}Importance of signing methods}{17}{subsubsection.5.6.1}%
+\contentsline {subsubsection}{\numberline {2.}eth\_sign}{17}{subsubsection.5.6.2}%
+\contentsline {subsubsection}{\numberline {3.}personal\_sign}{19}{subsubsection.5.6.3}%
+\contentsline {subsubsection}{\numberline {4.}eth\_signTypedData}{20}{subsubsection.5.6.4}%
+\contentsline {subsection}{\numberline {G)}Operation of eth\_signTypedData}{21}{subsection.5.7}%
+\contentsline {subsubsection}{\numberline {1.}Method arguments defined in EIP712}{21}{subsubsection.5.7.1}%
+\contentsline {subsubsection}{\numberline {2.}Creation of a test Dapp}{21}{subsubsection.5.7.2}%
+\contentsline {subsubsection}{\numberline {3.}Mandatory fields}{22}{subsubsection.5.7.3}%
+\contentsline {subsection}{\numberline {H)}Analysis of signing methods in DApps}{24}{subsection.5.8}%
+\contentsline {subsubsection}{\numberline {1.}Finding every usage of signing methods}{24}{subsubsection.5.8.1}%
+\contentsline {subsubsection}{\numberline {2.}Collecting more DApps}{24}{subsubsection.5.8.2}%
+\contentsline {subsubsection}{\numberline {3.}Usage of signing methods}{25}{subsubsection.5.8.3}%
+\contentsline {subsection}{\numberline {I)}Smart contracts implementation}{27}{subsection.5.9}%
+\contentsline {subsubsection}{\numberline {1.}Smart contracts role}{27}{subsubsection.5.9.1}%
+\contentsline {subsubsection}{\numberline {2.}ecrecover}{27}{subsubsection.5.9.2}%
+\contentsline {subsubsection}{\numberline {3.}Nonce and deadline}{27}{subsubsection.5.9.3}%
+\contentsline {subsection}{\numberline {J)}Classification of DApps}{28}{subsection.5.10}%
+\contentsline {subsubsection}{\numberline {1.}Purpose of classification}{28}{subsubsection.5.10.1}%
+\contentsline {subsubsection}{\numberline {2.}Personal Sign}{28}{subsubsection.5.10.2}%
+\contentsline {subsubsection}{\numberline {3.}Uniswap}{29}{subsubsection.5.10.3}%
+\contentsline {subsubsection}{\numberline {4.}OpenZeppelin}{29}{subsubsection.5.10.4}%
+\contentsline {subsubsection}{\numberline {5.}Compound}{30}{subsubsection.5.10.5}%
+\contentsline {subsubsection}{\numberline {6.}Different}{30}{subsubsection.5.10.6}%
+\contentsline {subsubsection}{\numberline {7.}Repartition of DApps into this classification}{31}{subsubsection.5.10.7}%
+\contentsline {section}{\numberline {VI.}Environmental and social impact}{32}{section.6}%
+\contentsline {subsection}{\numberline {A)}Personal impact}{32}{subsection.6.1}%
+\contentsline {subsection}{\numberline {B)}Global impact}{33}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {1.}Environmental impact}{33}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {2.}Societal impact}{34}{subsubsection.6.2.2}%
+\contentsline {subsection}{\numberline {C)}Illinois Institute of Technology policy}{35}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {1.}Sustainability Integration in Curriculum}{35}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {2.}Energy-efficient practices}{35}{subsubsection.6.3.2}%
+\contentsline {section}{\numberline {VII.}Conclusion}{37}{section.7}%
+\contentsline {subsection}{\numberline {A)}Project conclusion}{37}{subsection.7.1}%
+\contentsline {subsection}{\numberline {B)}Future work}{37}{subsection.7.2}%
+\contentsline {subsection}{\numberline {C)}Personal conclusion}{38}{subsection.7.3}%
+\contentsline {section}{Appendix \numberline {A}Bash script to find signing methods}{39}{appendix.1.A}%
+\contentsline {section}{Appendix \numberline {B}Bash script that automate the analysis of signing methods}{42}{appendix.1.B}%

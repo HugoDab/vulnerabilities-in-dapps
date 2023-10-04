@@ -1,0 +1,21 @@
+\babel@toc {english}{}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces GitHub results for dapp search}}{10}{figure.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Metamask extension}}{12}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Metamask API analysis}}{13}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces eth\_sign pop-up message}}{17}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces eth\_sign warning message when trying to enable this \Gls {api}}}{18}{figure.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces personal\_sign pop-up message}}{19}{figure.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces eth\_signTypedDataV4 pop-up message}}{20}{figure.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces DApp created to test eth\_signTypedData}}{22}{figure.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Example of message sent using eth\_signTypedData}}{23}{figure.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Spreadsheet which stores the results of signing methods usage in DApps}}{24}{figure.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Bash script to collect GitHub repositories from a query}}{25}{figure.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Repartition of signing methods on top 100 \Glspl {dapp}}}{26}{figure.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Repartition of signing methods on 2,490 \Glspl {dapp}}}{26}{figure.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Ecrecover function personal sign implementation}}{28}{figure.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Ecrecover function Uniswap implementation}}{29}{figure.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Ecrecover function OpenZeppelin implementation}}{29}{figure.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Ecrecover function Compound implementation}}{30}{figure.17}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Ecrecover function different implementation}}{30}{figure.18}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Repartition of ecrecover function categories}}{31}{figure.19}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Environmental cost of equipment used during the project}}{32}{figure.20}%
